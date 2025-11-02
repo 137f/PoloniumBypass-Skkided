@@ -10,7 +10,7 @@ Nada Contra usuarios, porém o dono do tal "Polonium" errou ao acusar os outros 
 
 ## 🖼️ Fucked Bypass Community
 
-![image](https://raw.githubusercontent.com/137f/ETW-Patcher/refs/heads/main/ETW-Patcher/Images/0.png](https://raw.githubusercontent.com/137f/PoloniumBypass-Unpacked/refs/heads/main/fuckedpolonium/polonium.png)  
+![image](https://raw.githubusercontent.com/137f/ETW-Patcher/refs/heads/main/ETW-Patcher/Images/0.png)  
 
 ---
 
