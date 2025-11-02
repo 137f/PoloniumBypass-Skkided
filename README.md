@@ -36,9 +36,9 @@ https://github.com/137f
 
 https://github.com/npmstealer
 
-https://github.com/slashstranger/slashstranger
+https://github.com/slashstranger
 
-https://github.com/VypeXis/vypeeeee
+https://github.com/VypeXis
 
 https://github.com/soneca7
 
