@@ -1,10 +1,10 @@
-# ⚠️ **Disclaimer:** Unpack de um Bypass Considerado "Bom" porém que de bom não tem nada, sua injeção é via PowerShell e é detectavel por varias ferramentas forenses, dentre elas a Sysmon & FTKImg.
+# ⚠️ **Disclaimer:** Polonium Bypass.
 
 ---
 
 ## 💡 Alert
 
-Nada Contra usuarios, porém o dono do tal "Polonium" errou ao acusar os outros de algo que não se prova verdade.
+Unpack de um Bypass Considerado "Bom" porém que de bom não tem nada, sua injeção é via PowerShell e é detectavel por varias ferramentas forenses, dentre elas a Sysmon & FTKImg. Nada Contra usuarios, porém o dono do tal "Polonium" errou ao acusar os outros de algo que não se prova verdade.
 
 ---
 
